@@ -1,0 +1,33 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="60" rx="8" fill="#1F2937"/>
+  
+  <!-- Icon -->
+  <g transform="translate(15,12)">
+    <!-- Shopping bag -->
+    <path d="M8 12L12 8L20 8L24 12L24 28C24 29.1 23.1 30 22 30L10 30C8.9 30 8 29.1 8 28L8 12Z" fill="url(#primaryGrad)" fill-opacity="0.9"/>
+    <path d="M12 8C12 5.8 13.8 4 16 4C18.2 4 20 5.8 20 8" stroke="url(#primaryGrad)" stroke-width="2" fill="none"/>
+    
+    <!-- Small shopping items inside -->
+    <circle cx="14" cy="18" r="1.5" fill="url(#accent)"/>
+    <circle cx="18" cy="22" r="1.5" fill="url(#accent)"/>
+    <rect x="16" y="15" width="2" height="2" rx="0.5" fill="url(#accent)"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="50" y="25" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="url(#primaryGrad)">BizShop</text>
+  <text x="50" y="42" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="400" fill="#9CA3AF">E-commerce Platform</text>
+  
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EC4899;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EF4444;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="20" fill="#EFF6FF"/>
+  <!-- Laptop -->
+  <rect x="50" y="70" width="60" height="40" rx="4" fill="#3B82F6"/>
+  <rect x="55" y="75" width="50" height="30" fill="#1E293B"/>
+  <rect x="50" y="110" width="60" height="8" rx="4" fill="#64748B"/>
+  <!-- Phone -->
+  <rect x="120" y="60" width="25" height="45" rx="6" fill="#1E40AF"/>
+  <rect x="125" y="65" width="15" height="25" fill="#0F172A"/>
+  <circle cx="132.5" cy="95" r="3" fill="#64748B"/>
+  <!-- Headphones -->
+  <path d="M65 40 C75 30, 95 30, 105 40" stroke="#6366F1" stroke-width="4" fill="none"/>
+  <circle cx="60" cy="45" r="8" fill="#6366F1"/>
+  <circle cx="110" cy="45" r="8" fill="#6366F1"/>
+  <!-- Watch -->
+  <circle cx="85" cy="150" r="15" fill="#1E40AF"/>
+  <circle cx="85" cy="150" r="10" fill="#0F172A"/>
+  <path d="M75 150 C70 145, 70 140, 75 135 L95 135 C100 140, 100 145, 95 150" stroke="#64748B" stroke-width="3" fill="none"/>
+  <path d="M75 150 C70 155, 70 160, 75 165 L95 165 C100 160, 100 155, 95 150" stroke="#64748B" stroke-width="3" fill="none"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="20" fill="#F0FDF4"/>
+  <!-- Plate -->
+  <circle cx="100" cy="120" r="45" fill="#FEF3C7"/>
+  <circle cx="100" cy="120" r="40" fill="#FFFFFF"/>
+  <!-- Pizza slice -->
+  <path d="M85 100 C95 90, 105 90, 115 100 L100 130 Z" fill="#F59E0B"/>
+  <!-- Pizza toppings -->
+  <circle cx="95" cy="105" r="3" fill="#DC2626"/>
+  <circle cx="105" cy="110" r="3" fill="#16A34A"/>
+  <circle cx="100" cy="120" r="3" fill="#DC2626"/>
+  <!-- Coffee cup -->
+  <rect x="130" y="60" width="20" height="25" rx="2" fill="#6B7280"/>
+  <rect x="135" y="65" width="10" height="15" fill="#374151"/>
+  <path d="M150 70 C155 70, 160 75, 160 80 C160 85, 155 90, 150 90" stroke="#6B7280" stroke-width="2" fill="none"/>
+  <!-- Steam -->
+  <path d="M138 55 C138 50, 140 50, 140 55 C140 50, 142 50, 142 55" stroke="#9CA3AF" stroke-width="1" fill="none"/>
+  <!-- Apple -->
+  <circle cx="60" cy="80" r="15" fill="#DC2626"/>
+  <path d="M60 65 C58 60, 62 60, 65 65" stroke="#16A34A" stroke-width="2" fill="none"/>
+  <ellipse cx="62" cy="67" rx="2" ry="4" fill="#16A34A"/>
+  <!-- Burger -->
+  <ellipse cx="100" cy="160" rx="25" ry="8" fill="#D97706"/>
+  <rect x="80" y="155" width="40" height="5" fill="#16A34A"/>
+  <rect x="85" y="150" width="30" height="5" fill="#DC2626"/>
+  <rect x="82" y="145" width="36" height="5" fill="#FCD34D"/>
+  <ellipse cx="100" cy="145" rx="25" ry="8" fill="#D97706"/>
+</svg>

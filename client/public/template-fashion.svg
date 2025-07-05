@@ -1,0 +1,13 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="20" fill="#FDF2F8"/>
+  <!-- Dress -->
+  <path d="M80 60 C80 55, 85 50, 100 50 C115 50, 120 55, 120 60 L125 80 C125 85, 120 90, 115 90 L85 90 C80 90, 75 85, 75 80 Z" fill="#EC4899"/>
+  <!-- Dress body -->
+  <path d="M75 80 L125 80 L130 140 C130 145, 125 150, 120 150 L80 150 C75 150, 70 145, 70 140 Z" fill="#F472B6"/>
+  <!-- Hanger -->
+  <path d="M90 30 L110 30 C115 30, 120 35, 120 40 C120 45, 115 50, 110 50 L90 50 C85 50, 80 45, 80 40 C80 35, 85 30, 90 30 Z" stroke="#9CA3AF" stroke-width="3" fill="none"/>
+  <line x1="100" y1="20" x2="100" y2="30" stroke="#9CA3AF" stroke-width="3"/>
+  <!-- Shoes -->
+  <ellipse cx="85" cy="170" rx="12" ry="6" fill="#FCD34D"/>
+  <ellipse cx="115" cy="170" rx="12" ry="6" fill="#FCD34D"/>
+</svg>

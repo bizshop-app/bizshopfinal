@@ -1,0 +1,31 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bishop crown/top -->
+  <path d="M18 8 C18 6, 20 4, 24 4 C28 4, 30 6, 30 8 C30 10, 28 12, 24 12 C20 12, 18 10, 18 8 Z" fill="#3B82F6"/>
+  <circle cx="24" cy="8" r="2" fill="#1E40AF"/>
+  
+  <!-- Bishop neck -->
+  <path d="M20 12 L28 12 L26 16 L22 16 Z" fill="#3B82F6"/>
+  
+  <!-- Main vertical spine (bishop body) -->
+  <rect x="20" y="16" width="8" height="32" fill="#3B82F6"/>
+  
+  <!-- Bishop base -->
+  <path d="M16 48 L32 48 L30 52 L18 52 Z" fill="#3B82F6"/>
+  <ellipse cx="24" cy="54" rx="8" ry="3" fill="#1E40AF"/>
+  
+  <!-- Upper loop (traditional B curve) -->
+  <path d="M28 20 C36 20, 42 24, 42 30 C42 36, 36 40, 28 40 Z" fill="#3B82F6"/>
+  
+  <!-- Lower loop as shopping bag -->
+  <path d="M28 32 C38 32, 46 36, 46 44 C46 50, 42 54, 36 54 L32 54 L32 48 L28 48 Z" fill="#10B981"/>
+  
+  <!-- Shopping bag handles -->
+  <path d="M34 36 C34 34, 36 32, 38 32 C40 32, 42 34, 42 36" stroke="#059669" stroke-width="2.5" fill="none"/>
+  <path d="M32 38 C32 36, 34 34, 36 34 C38 34, 40 36, 40 38" stroke="#059669" stroke-width="2" fill="none"/>
+  
+  <!-- Shopping bag fold/crease -->
+  <line x1="32" y1="48" x2="40" y2="48" stroke="#059669" stroke-width="1.5"/>
+  
+  <!-- Shopping bag bottom reinforcement -->
+  <rect x="32" y="52" width="8" height="2" rx="1" fill="#047857"/>
+</svg>
